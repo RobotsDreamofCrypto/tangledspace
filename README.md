@@ -1,2 +1,2 @@
 # tangledspace
-Open Source Project for the Tangled Enabled Reservation System
+Open Source Project for the Tangle Enabled Reservation System
